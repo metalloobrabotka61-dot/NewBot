@@ -6,7 +6,7 @@ from datetime import datetime
 
 # ========== НАСТРОЙКИ ==========
 TELEGRAM_TOKEN = "8695713035:AAELPJ25J5SMbw2Ed6rEW1fiuAtRZ4L9Abc"
-CHAT_ID = "-1001779549121"
+CHAT_ID = "1779549121"
 
 # Отбор монет
 TOP_COINS = 200                     # количество монет (по объёму)
