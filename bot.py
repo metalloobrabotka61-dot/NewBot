@@ -4,7 +4,7 @@ from datetime import datetime
 
 # ========== НАСТРОЙКИ ==========
 TELEGRAM_TOKEN = "8302482854:AAFVRh7y6B7yIX0IVRnLy7Om30uPu_cyGw4"
-CHAT_ID = "1779549121"
+CHAT_ID = "-1001779549121"
 
 TOP_GAINERS_COUNT = 6        # анализируем 6 лучших по росту
 MIN_24H_CHANGE = 5.0         # минимальный рост за 24ч (%)
